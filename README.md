@@ -1,5 +1,6 @@
 Introduction
 ============
+[![Build Status](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/build-status/master)
 [BETA]
 Clone of [TS3 ADMIN PHP Framework 0.8.0.0](http://ts3admin.info/index.php) providing the library as composer project.
 
