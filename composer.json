@@ -2,7 +2,7 @@
     "name": "forge-media/forgetsm-php-framework",
     "type": "library",
     "description": "Clone of TS3 ADMIN PHP Framework 0.8.0.0 providing the library as composer project.",
-    "keywords": ["ts3"],
+    "keywords": ["ts3" "php", "heroku"],
     "minimum-stability": "dev",
     "homepage": "https://github.com/forge-media/forgetsm-php-framework",
     "license": "GPL2",
