@@ -19,6 +19,6 @@
         "files": ["API/TeamSpeak3.php"]
     },
     "require": {
-        "php": "~5.6.x"
+        "php": ">=5.6"
     }
 }
