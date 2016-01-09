@@ -16,9 +16,9 @@
         }
     ],
     "autoload": {
-        "psr-4": { "API\\": "API/" }
+        "files": ["API/TeamSpeak3.php.php"]
     },
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.6.x"
     }
 }
