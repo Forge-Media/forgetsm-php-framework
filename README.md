@@ -1,6 +1,8 @@
 Introduction
 ============
-[![Build Status](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/build-status/master)
+[![Build Status](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/build-status/master)  
+[![Latest Stable Version](https://poser.pugx.org/forge-media/forgetsm-php-framework/v/stable)](https://packagist.org/packages/forge-media/forgetsm-php-framework)  
+[![License](https://poser.pugx.org/forge-media/forgetsm-php-framework/license)](https://packagist.org/packages/forge-media/forgetsm-php-framework)
 
 
 Clone of [TS3 ADMIN PHP Framework 0.8.0.0](http://ts3admin.info/index.php) providing the library as composer project.
