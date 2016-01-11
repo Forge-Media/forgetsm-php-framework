@@ -1,7 +1,7 @@
 Introduction
 ============
-[![Build Status](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/build-status/master)  
-[![Latest Stable Version](https://poser.pugx.org/forge-media/forgetsm-php-framework/v/stable)](https://packagist.org/packages/forge-media/forgetsm-php-framework)  
+[![Build Status](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Forge-Media/forgetsm-php-framework/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/forge-media/forgetsm-php-framework/v/stable)](https://packagist.org/packages/forge-media/forgetsm-php-framework)
 [![License](https://poser.pugx.org/forge-media/forgetsm-php-framework/license)](https://packagist.org/packages/forge-media/forgetsm-php-framework)
 
 
